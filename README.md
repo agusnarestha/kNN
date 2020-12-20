@@ -1,2 +1,6 @@
 # kNN
-TUGAS 3 Kecerdasan Buatan
+TUGAS 3 kNN Kecerdasan Buatan
+
+
+Normalisasi menggunakan cara minmax
+Menghitung jarak menggunakan rumus euclidian
